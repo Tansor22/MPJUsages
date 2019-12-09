@@ -1,5 +1,5 @@
 # MPJUsages
-Some MPJ Express usages + a good example of Gralde using.
+Some MPJ Express usages + a good example of Gradle using.
 
 MPJ Express v0.44 included. Path to it should be set as MPJ_HOME system environment variable.
 
