@@ -1,7 +1,6 @@
 package examples;
 
 import mpi.MPI;
-import mpi.Status;
 
 import static utils.MPJUtils.*;
 
